@@ -115,3 +115,18 @@ a:hover {
 .card-title {
   font-size: 17px;
 }
+
+#footer {
+  text-decoration: none;
+  transition: 250ms ease-in-out;
+}
+
+#footer:hover {
+  cursor: pointer;
+  color: blue;
+}
+
+footer {
+  font-style: italic;
+  font-size: 150px;
+}
